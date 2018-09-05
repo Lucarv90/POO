@@ -1,0 +1,13 @@
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.exe.config
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.exe
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.pdb
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.csprojResolveAssemblyReference.cache
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.csproj.CoreCompileInputs.cache
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.exe
+C:\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.pdb
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.exe.config
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.exe
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.pdb
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.exe
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\bin\Debug\Projeto01.pdb
+F:\C# Estudos\LUCARV-Reload\Aula06\Aula06\Projeto01\obj\Debug\Projeto01.csprojResolveAssemblyReference.cache
